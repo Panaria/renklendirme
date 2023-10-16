@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "renklendirme", "renklendirme\renklendirme.csproj", "{FFB2881B-8DC6-4F5C-9B23-A46A2A9AD30F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB2881B-8DC6-4F5C-9B23-A46A2A9AD30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB2881B-8DC6-4F5C-9B23-A46A2A9AD30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB2881B-8DC6-4F5C-9B23-A46A2A9AD30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB2881B-8DC6-4F5C-9B23-A46A2A9AD30F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC0B039-5DA0-4367-90C9-2B0305E9AAFC}
+	EndGlobalSection
+EndGlobal
